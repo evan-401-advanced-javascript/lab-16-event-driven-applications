@@ -1,19 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dc94804-e0a6-4d58-a1b9-728810442255" name="Default Changelist" comment="" />
+    <list default="true" id="6dc94804-e0a6-4d58-a1b9-728810442255" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/app.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/config/jsdoc.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/config/swagger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/global.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/modular-events_read-file.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/modular-events_uppercase.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/modular-events_write-file.js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/scripts/linenumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/scripts/prettify/lang-css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/scripts/prettify/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/styles/jsdoc-default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/styles/prettify-jsdoc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/styles/prettify-tomorrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-events/events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-events/read-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-events/uppercase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modular-events/write-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__tests__/app.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/__tests__/app.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QL8bUmoKlekKnE1mcgzu7SX765" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/config" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567538587235</updated>
       <workItem from="1567538589707" duration="21000" />
+      <workItem from="1567540982289" duration="13520000" />
     </task>
     <servers />
   </component>
@@ -49,10 +114,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
